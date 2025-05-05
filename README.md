@@ -3,7 +3,7 @@
 This repo is my version of a pomodoro/task management application.
 
 **Name:** TBD - Placeholder "Zen Task & Timer"
-**Description:** {AppName here} was created with the thoughts of the end-user in mind. Allowing you to work on your set of tasks with the pomodoro technique to stay on top of all you need to accomplish. Set up your tasks with descriptions, priority levels, due dates, and more! Task too big? You can break down a task by creating some sub-tasks to make a Task Group to hold more granular information.
+**Description:** {AppName here} was created with the thoughts of the end-user in mind. Allowing you to work on your set of tasks with the pomodoro technique to stay on top of all you need to accomplish. Set up your tasks with descriptions, priority levels, due dates, and more! Task too big? You can break down a task by creating some sub-tasks to hold more granular information.
 **Purpose:** To provide a Pomodoro timer and task manager in one.
 **Features:**  
 - Name Task
