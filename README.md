@@ -12,7 +12,7 @@ This repo is my version of a pomodoro/task management application.
 - Add Task Description
 - Due Date
 - Priority Level
-- Task Grouping
+- Sub-Tasks
 - The Pomodoro Timer
 	- Display the 25min timer
 		- Display 25min at start
